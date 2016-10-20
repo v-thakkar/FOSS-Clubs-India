@@ -1,2 +1,7 @@
 # FOSS-Clubs-India
-List of FOSS Clubs in Indian Universities
+## This repository contains the list of FOSS and open source related clubs at the Indian universities.
+
+| Name of the University/college     | Name of the FOSS Club  | Activities                |
+|------------------------------------|------------------------|---------------------------|
+|[Amrita University, Amritapuri](https://www.amrita.edu/campus/amritapuri)|[FOSS At Amrita](http://foss.amrita.ac.in/) |                                    
+
