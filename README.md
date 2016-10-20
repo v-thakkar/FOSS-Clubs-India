@@ -1,5 +1,6 @@
 # FOSS-Clubs-India
-## This repository contains the list of FOSS and open source related clubs at the Indian universities.
+
+This repository contains the list of FOSS and open source related clubs at the Indian universities.
 
 | Name of the University/college     | Name of the FOSS Club  | Activities                |
 |------------------------------------|------------------------|---------------------------|
