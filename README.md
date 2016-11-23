@@ -9,4 +9,6 @@ This repository contains the list of FOSS and open source related clubs at the I
 |[Arya college of Engineering and IT, Jaipur](http://www.aryacollege.in/)|[Openmoz](https://www.facebook.com/groups/openmoz/) |                                     
 |[National Institute of Technology Karnataka](http://nitk.ac.in)|[LUG, NITK](http://nitklug.github.io/)|
 
+|[IIT, Kharagpur](http://iitkgp.ac.in/)|[Kharagpur open source society](http://kossiitkgp.in/)|[KWOC](http://kwoc.kossiitkgp.in/)|
+
 
