@@ -8,7 +8,3 @@ This repository contains the list of FOSS and open source related clubs at the I
 |[National Institute of Technology, Calicut](http://nitc.ac.in/)|[FOSSCell, NITC](http://fosscell.nitc.ac.in/) | <ul><li>[FOSSMeet] (http://fossmeet.in)</li><li>[Firefox OS Hackathon 2015] (http://fossmeet.in/2016/hackathon.tathva.org/)</li><li>[Rust Workshop 2016] (https://www.facebook.com/CSEA.NITC/posts/935276289884219)</li></ul>|
 |[Arya college of Engineering and IT, Jaipur](http://www.aryacollege.in/)|[Openmoz](https://www.facebook.com/groups/openmoz/) |                                     
 |[National Institute of Technology Karnataka](http://nitk.ac.in)|[LUG, NITK](http://nitklug.github.io/)|
-
-|[IIT, Kharagpur](http://iitkgp.ac.in/)|[Kharagpur open source society](http://kossiitkgp.in/)|[KWOC](http://kwoc.kossiitkgp.in/)|
-
-
