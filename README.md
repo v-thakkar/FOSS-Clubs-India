@@ -13,3 +13,5 @@ This repository contains the list of FOSS and open source related clubs at the I
 |[Mukesh Patel School of Technology Management & Engineering](http://engineering.nmims.edu/)|[MPSTME GLUG](https://www.facebook.com/mpstme.glug/)| Meetups/Trainings conducted : <ul><li>CS101 Programming with Python</li><li>Python for faculty</li><li>Linux Install Fest</li><li>Grand Theft Ruby</li><li>Advanced C++ Workshop</li><li>Software Freedom Day</li></ul> Internal Events <ul><li>OS concepts with Linux</li><li>Bash : Noob to Power User</li></ul>|
 |[BITS Pilani Hyderabad Campus](http://www.bits-pilani.ac.in/hyderabad/)|[Foss@Bphc](https://fossbphc.github.io/)| Foss Winter Of Code |
 |[International Institute Of Information Technology,Bangalore](https://www.iiitb.ac.in/)|[Zense](https://zense.co.in/)| |10 students selected for GSOC'17|
+|[Presidency University, Kolkata](www.presiuniv.ac.in)| <ul style='list-style: none'><li>[PUWS](https://puws.wordpress.com/)</li><li>[PLUG](https://www.facebook.com/groups/presilinux/)</li></ul>|
+|Several / Independant |[H-Space](http://hspace.root.sx)|
