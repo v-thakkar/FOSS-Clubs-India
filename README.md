@@ -14,3 +14,5 @@ This repository contains the list of FOSS and open source related clubs at the I
 |[BITS Pilani Hyderabad Campus](http://www.bits-pilani.ac.in/hyderabad/)|[Foss@Bphc](https://fossbphc.github.io/)| Foss Winter Of Code |
 |[International Institute Of Information Technology,Bangalore](https://www.iiitb.ac.in/)|[Zense](https://zense.co.in/)| |10 students selected for GSOC'17|
 |[Muthoot Institute of Technology and Science (MITS), Kochi](http://www.mgmits.com/)|[MITS FOSS Club](https://mitsfoss.in/)| Events conducted : <ul><li>Git & Github Workshop</li><li>Web Development Workshop</li><li>FOSSART2k19 : Poster design competition using FOSS tools.</li></ul> Internal Events <ul><li>Linux War : Three round competiton(FOSS Quiz, Bash Programming, Game Development with FOSS tools.)</li></ul>|
+
+| [Indian Institute of Science Education and Research, Pune](http://www.iiserpune.ac.in/) | [IISER Pune Linux User Group](https://iplug.sac.iiserpune.ac.in/) | GNU/ Linux Installation Drives, Python Workshops, Coding Challenges | |
